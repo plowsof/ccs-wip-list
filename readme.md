@@ -30,7 +30,7 @@
 [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals//proposals/xiphon-7.html)    
 [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals//proposals/anon-perfect-peer-to-peer-protocol.html)    
 [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals//proposals/mooo-2020-12.html)    
-[Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://ccs.getmonero.org/proposals//proposals/staff91-Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.html)    
+[Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://ccs.getmonero.org/proposals/staff91-Translation%20and%20review%20of%20GUI%20Wallet,%20monero-site,%20Monero%20Means%20Money%20(subtitles)%20and%20Sound%20Money,%20Safe%20Mode%20(subtitles)%20to%20Italian.html)    
 [tipxmr.live - a non-custodial livestream donation service for OBS](https://ccs.getmonero.org/proposals//proposals/tipxmr.live.html)    
 [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals//proposals/h4sh3d-atomic-swap-implementation.html)    
 [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals//proposals/adrelanos-debian-package.html)    
