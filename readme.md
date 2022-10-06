@@ -15,7 +15,7 @@
 - [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals/adrelanos-debian-package.html)    
 - [MoneroKon 2022 CCS](https://ccs.getmonero.org/proposals/MoneroKon-2022-CCS.html)  
 - [OSPEAD - Fortifying Monero Against Statistical Attack](https://ccs.getmonero.org/proposals/Rucknium-OSPEAD-Fortifying-Monero-Against-Statistical-Attack.html)    
-- [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html)    
+- [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html) - need to contact , i think payment(s) are overdue       
 - [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
 - [Add Monero to TxStreet](https://ccs.getmonero.org/proposals/txstreet-2021.html)    
 - [vtnerd Full-Time 2021 Q1](https://ccs.getmonero.org/proposals/vtnerd-2021-q1.html)    
