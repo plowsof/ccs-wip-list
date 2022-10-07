@@ -44,4 +44,4 @@
 - [Monero Payment gateways Gateways part 3](https://ccs.getmonero.org/proposals/serhack-monero-integrations-part-3.html) Proposer is busy creating Mastering Monero 2.0    
 - [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT    
 - [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
-- [Triptych research and optimizations](https://ccs.getmonero.org/proposals/cypherstack-sarang-triptych-research.html) [read to be closed / donated to general fund](https://libera.monerologs.net/monero-community/20221007#c150566)
+- [Triptych research and optimizations](https://ccs.getmonero.org/proposals/cypherstack-sarang-triptych-research.html) ready to be [closed / donated to general fund](https://libera.monerologs.net/monero-community/20221007#c150566)
