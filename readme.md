@@ -28,7 +28,7 @@
 
 ## OTHER
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html)    
-- [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) This role has been suspended by the proposor to focus on Haveno   
+- [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) This role has been suspended by the proposor due to long running issues (such as hitting a wall when requiring 'someone to make something to happen' behind the scenes)
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) Blocked until teammate (endor) completes their milestone(s) 
 
 ## FUNDING ISSUE
