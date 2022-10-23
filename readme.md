@@ -7,7 +7,8 @@
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-3.html)    
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html)    
-- [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)    
+- [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
+  - update requested via direct message to binarybaron 2022-10-23  
 - [jeffro256: part-time dev work 2022Q3](https://ccs.getmonero.org/proposals/jeffro256-part-time-2022-q3.html)    
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html)    
 - [koe: Seraphis Wallet Proof-of-Concept 2](https://ccs.getmonero.org/proposals/seraphis-wallet-poc-2.html)    
