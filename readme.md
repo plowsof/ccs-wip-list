@@ -6,6 +6,7 @@
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-6.html)    
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-3.html)    
+    - Finished [final update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/330#note_19233)
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html)    
 - [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
   - update requested via direct message to binarybaron 2022-10-23  
