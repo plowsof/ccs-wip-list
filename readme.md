@@ -1,7 +1,6 @@
 ## OK
 - [dangerousfreedom - more Seraphis development](https://ccs.getmonero.org/proposals/dangerousfreedom-Seraphis-audit-and-wallet.html)    
 - [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html)    
-- [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html)    
 - [koe: Seraphis Library Work](https://ccs.getmonero.org/proposals/seraphis-library-work.html)    
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-6.html)    
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
@@ -33,6 +32,7 @@
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
+- [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html)    
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) Blocked until teammate (endor) completes their milestone(s) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
