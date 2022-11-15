@@ -45,6 +45,7 @@ rest assured that I (we) intend to
     - mj completes his parts of milestones 3 + 4 / declares endors parts as optional - so the project is now finished (to be confirmed)
     - declares endors parts are optional are 'finishing' the project.
     - endor is publicly asked to share progrss to-date with all his milestones 20221115
+    - endor promises "detailed response" (hopefully it involves progress) [logs](https://libera.monerologs.net/monero-community/20221115#c159121)
 ## FUNDING ISSUE
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)      
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)    
