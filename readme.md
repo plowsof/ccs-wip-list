@@ -40,6 +40,9 @@ and mj has already completed most of his work for M3+M4 already, so after that i
 of M3+M4 left. Unfortunately there have been some delays on my part (had some personal stuff to deal with in
 the last few months), so I doubt that I'll be able to finish my part in time for the original deadline, but
 rest assured that I (we) intend to
+    - working relationship between endor/mj 'broken'
+    - mj completes his parts of milestones 3 + 4 / declares endors parts as optional - so the project is now finished (to be confirmed)
+    - endor is publicly asked to share progrss to-date with all his milestones 20221115
 ## FUNDING ISSUE
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)      
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)    
