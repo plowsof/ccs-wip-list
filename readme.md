@@ -1,6 +1,7 @@
 ## OK
 - [dangerousfreedom - more Seraphis development](https://ccs.getmonero.org/proposals/dangerousfreedom-Seraphis-audit-and-wallet.html)    
-- [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html)    
+- [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html) 
+- [Gupax: GUI for p2pool/XMRig](https://ccs.getmonero.org/proposals/gupax.html)
 - [koe: Seraphis Library Work](https://ccs.getmonero.org/proposals/seraphis-library-work.html)    
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-6.html)    
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
