@@ -34,7 +34,7 @@
 ## OTHER
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html)    
-- [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) Blocked until teammate (endor) completes their milestone(s) 
+- [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
 and mj has already completed most of his work for M3+M4 already, so after that it's pretty much just my part
 of M3+M4 left. Unfortunately there have been some delays on my part (had some personal stuff to deal with in
@@ -42,6 +42,7 @@ the last few months), so I doubt that I'll be able to finish my part in time for
 rest assured that I (we) intend to
     - working relationship between endor/mj 'broken'
     - mj completes his parts of milestones 3 + 4 / declares endors parts as optional - so the project is now finished (to be confirmed)
+    - declares endors parts are optional are 'finishing' the project.
     - endor is publicly asked to share progrss to-date with all his milestones 20221115
 ## FUNDING ISSUE
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)      
