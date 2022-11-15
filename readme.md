@@ -33,7 +33,7 @@
 
 ## OTHER
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106
-- [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html)    
+- [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html) netrik has mentioned publicly that he has not claimed the milestone but continues to work [here](https://www.reddit.com/r/Monero/comments/x7bmzq/comment/io3c6wp/?utm_source=share&utm_medium=web2x&context=3) - contacted him to clarify / get paid for work done if the hours have been worked.
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
 and mj has already completed most of his work for M3+M4 already, so after that it's pretty much just my part
