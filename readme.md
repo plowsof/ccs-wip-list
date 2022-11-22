@@ -3,7 +3,7 @@
 - [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html) 
 - [Gupax: GUI for p2pool/XMRig](https://ccs.getmonero.org/proposals/gupax.html) - [gupax.io](https://gupax.io)
 - [koe: Seraphis Library Work](https://ccs.getmonero.org/proposals/seraphis-library-work.html)    
-- [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-6.html)    
+- [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-7.html)    
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-3.html)    
     - Finished [final update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/330#note_19233)
@@ -14,12 +14,14 @@
   - work has resumed. Paid for milestone 2
 - [jeffro256: part-time dev work 2022Q3](https://ccs.getmonero.org/proposals/jeffro256-part-time-2022-q3.html)    
     - Milestone 1 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_18761)
+    - Milestone 2 [completeed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html)    
 - [koe: Seraphis Wallet Proof-of-Concept 2](https://ccs.getmonero.org/proposals/seraphis-wallet-poc-2.html)    
 - [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)    
 - [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals/adrelanos-debian-package.html)    
 - [MoneroKon 2022 CCS](https://ccs.getmonero.org/proposals/MoneroKon-2022-CCS.html)  
     - Monerokon repo [here](https://github.com/MoneroKon)
+    - Draft CCS proposal ready
 - [OSPEAD - Fortifying Monero Against Statistical Attack](https://ccs.getmonero.org/proposals/Rucknium-OSPEAD-Fortifying-Monero-Against-Statistical-Attack.html)    
 - [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html) - need to contact , i think payment(s) are overdue       
 - [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
