@@ -48,6 +48,7 @@ rest assured that I (we) intend to
     - declares endors parts are optional are 'finishing' the project.
     - endor is publicly asked to share progrss to-date with all his milestones 20221115
     - endor promises "detailed response" (hopefully it involves progress) [logs](https://libera.monerologs.net/monero-community/20221115#c159121)
+    - Comments posted on gitlab. 80% dev tax uncovered (initially claimed to be 2% by mj) - which was removed after review - explanation has been promised.
 ## FUNDING ISSUE
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)      
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)    
