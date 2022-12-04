@@ -44,14 +44,12 @@ of M3+M4 left. Unfortunately there have been some delays on my part (had some pe
 the last few months), so I doubt that I'll be able to finish my part in time for the original deadline, but
 rest assured that I (we) intend to
     - working relationship between endor/mj 'broken'
-    - mj completes his parts of milestones 3 + 4 / declares endors parts as optional - so the project is now finished (to be confirmed)
-    - declares endors parts are optional are 'finishing' the project.
-    - endor is publicly asked to share progrss to-date with all his milestones 20221115
-    - endor promises "detailed response" (hopefully it involves progress) [logs](https://libera.monerologs.net/monero-community/20221115#c159121)
-    - Comments posted on gitlab. 80% dev tax uncovered (initially claimed to be 2% by mj) - which was removed after review - explanation has been promised.
+    - dev tax removed / endor can finish the project without mj
 ## FUNDING ISSUE
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)      
-- [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)    
+- [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)  
+    - https://github.com/mollyim/monero-wallet-sdk
+    - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
 
 ## PURGATORY
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://ccs.getmonero.org/staff91-Translation%20and%20review%20of%20GUI%20Wallet,%20monero-site,%20Monero%20Means%20Money%20(subtitles)%20and%20Sound%20Money,%20Safe%20Mode%20(subtitles)%20to%20Italian.html) Accused of being part of ' Google Translate Gate' also AWOL    
