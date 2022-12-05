@@ -35,7 +35,6 @@
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
-- [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html) netrik has mentioned publicly that he has not claimed the milestone but continues to work [here](https://www.reddit.com/r/Monero/comments/x7bmzq/comment/io3c6wp/?utm_source=share&utm_medium=web2x&context=3) - contacted him to clarify / get paid for work done if the hours have been worked.
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
@@ -52,6 +51,7 @@ rest assured that I (we) intend to
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
 
 ## PURGATORY
+- [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://ccs.getmonero.org/staff91-Translation%20and%20review%20of%20GUI%20Wallet,%20monero-site,%20Monero%20Means%20Money%20(subtitles)%20and%20Sound%20Money,%20Safe%20Mode%20(subtitles)%20to%20Italian.html) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
