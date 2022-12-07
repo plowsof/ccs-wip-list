@@ -15,9 +15,9 @@
   - work has resumed. Paid for milestone 2
 - [jeffro256: part-time dev work 2022Q3](https://ccs.getmonero.org/proposals/jeffro256-part-time-2022-q3.html)    
     - Milestone 1 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_18761)
-    - Milestone 2 [completeed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
+    - Milestone 2 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html) 
-    - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more infp](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
+    - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more info](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
 - [koe: Seraphis Wallet Proof-of-Concept 2](https://ccs.getmonero.org/proposals/seraphis-wallet-poc-2.html)    
 - [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)    
 - [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals/adrelanos-debian-package.html)    
