@@ -60,8 +60,8 @@ rest assured that I (we) intend to
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
 - [German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)](https://ccs.getmonero.org/proposals/wobole-german-translation-subtitles.html) Completed but needs review, also AWOL    
-- [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) AWOL     
-- [Monero Payment gateways Gateways part 3](https://ccs.getmonero.org/proposals/serhack-monero-integrations-part-3.html) Proposer is busy creating Mastering Monero 2.0    
+- [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) AWOL  30 XMR - no activity for 8 months      
+- [Monero Payment gateways Gateways part 3](https://ccs.getmonero.org/proposals/serhack-monero-integrations-part-3.html) Proposer is busy creating Mastering Monero 2.0     
 - [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT    
 - [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
 
