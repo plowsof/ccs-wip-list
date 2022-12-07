@@ -7,7 +7,8 @@
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-3.html)    
     - Finished [final update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/330#note_19233)
-- [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html)    
+- [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
+    - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)   
 - [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
   - update requested via direct message to binarybaron 2022-10-23  
   - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
@@ -15,7 +16,8 @@
 - [jeffro256: part-time dev work 2022Q3](https://ccs.getmonero.org/proposals/jeffro256-part-time-2022-q3.html)    
     - Milestone 1 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_18761)
     - Milestone 2 [completeed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
-- [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html)    
+- [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html) 
+    - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more infp](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
 - [koe: Seraphis Wallet Proof-of-Concept 2](https://ccs.getmonero.org/proposals/seraphis-wallet-poc-2.html)    
 - [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)    
 - [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals/adrelanos-debian-package.html)    
@@ -24,17 +26,18 @@
     - Draft CCS proposal ready
 - [OSPEAD - Fortifying Monero Against Statistical Attack](https://ccs.getmonero.org/proposals/Rucknium-OSPEAD-Fortifying-Monero-Against-Statistical-Attack.html)    
 - [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html) - need to contact , i think payment(s) are overdue       
-- [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
-- [Add Monero to TxStreet](https://ccs.getmonero.org/proposals/txstreet-2021.html)    
 - [vtnerd Full-Time 2021 Q1](https://ccs.getmonero.org/proposals/vtnerd-2021-q1.html)    
 - [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals/mooo-2020-12.html)    
 - [tipxmr.live - a non-custodial livestream donation service for OBS](https://ccs.getmonero.org/proposals/tipxmr.live.html)    
-- [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html)    
+- [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html) 
+    - Final milestone completed.. expect a reddit update soon!   
 - [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)   
     - [reddit comment saying work has begun](https://www.reddit.com/r/Monero/comments/xgqfdd/monero_youtube_channel_video_about_p2pool/) 2022-10-20
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
+- [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
+    - I need to investigate / follow up for whats happening here
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html) netrik has mentioned publicly that he has not claimed the milestone but continues to work [here](https://www.reddit.com/r/Monero/comments/x7bmzq/comment/io3c6wp/?utm_source=share&utm_medium=web2x&context=3) - contacted him to clarify / get paid for work done if the hours have been worked.
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
@@ -45,7 +48,8 @@ rest assured that I (we) intend to
     - working relationship between endor/mj 'broken'
     - dev tax removed / endor can finish the project without mj
 ## FUNDING ISSUE
-- [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)      
+- [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)     
+    - Vik of cakewallet has replaced one of the core members, and says that funding will be provided (to make up for the shortfalls due to volatility)
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)  
     - https://github.com/mollyim/monero-wallet-sdk
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
