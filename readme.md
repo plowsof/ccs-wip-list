@@ -1,5 +1,6 @@
 ## OK
 - [dangerousfreedom - more Seraphis development](https://ccs.getmonero.org/proposals/dangerousfreedom-Seraphis-audit-and-wallet.html)    
+    - [10-06-22 17:05:58](https://github.com/monero-project/meta/issues/739#issuecomment-1270463283) <dangerousfreedom> First of all thank you very much for your donations! I will do my best to deliver a high quality job as proposed. This week I have been investigating the grootle proofs in seraphis. I have been trying to make a parallel implementation of it in order to better understand how it works, to correct some possible flaws (if I find any) and to facilitate the work of someone else who is going to audit before going to production
 - [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html) 
 - [Gupax: GUI for p2pool/XMRig](https://ccs.getmonero.org/proposals/gupax.html) - [gupax.io](https://gupax.io)
 - [koe: Seraphis Library Work](https://ccs.getmonero.org/proposals/seraphis-library-work.html)    
