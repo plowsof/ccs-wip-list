@@ -27,12 +27,14 @@
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html) 
     - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more info](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
 - [koe: Seraphis Wallet Proof-of-Concept 2](https://ccs.getmonero.org/proposals/seraphis-wallet-poc-2.html)    
-- [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)    
+- [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)  
+    - [Milestone 1 + 2 complete](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/307#note_16613)
 - [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals/adrelanos-debian-package.html)    
 - [MoneroKon 2022 CCS](https://ccs.getmonero.org/proposals/MoneroKon-2022-CCS.html)  
     - Monerokon repo [here](https://github.com/MoneroKon)
     - Draft CCS proposal ready
 - [OSPEAD - Fortifying Monero Against Statistical Attack](https://ccs.getmonero.org/proposals/Rucknium-OSPEAD-Fortifying-Monero-Against-Statistical-Attack.html)    
+    - [Milestone 1 complete](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/255#note_18750)
 - [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html) - need to contact , i think payment(s) are overdue       
 - [vtnerd Full-Time 2021 Q1](https://ccs.getmonero.org/proposals/vtnerd-2021-q1.html)    
 - [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals/mooo-2020-12.html)    
