@@ -10,7 +10,6 @@
     - [12-05-2022](https://github.com/monero-project/meta/issues/762#issuecomment-1338007193)<dangerousfreedom> rbrunner7[m]: This week I looked at the checksum algo and implemented the BCH code as specified by Tevador in his Python snippet (https://github.com/DangerousFreedom1984/seraphis_lib/blob/simple_prototype/src/seraphis/jamtis_account.cpp#L186) so if we reach a consensus about the address tag (which I dont have an opinion now) then we should be good for generating the addresses. I have also been looking at the transaction proofs and should write something (to Koe) by the weekend.
     - first draft - security proofs for seraphis [here](https://github.com/seraphis-migration/wallet3/issues/42)
 - [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html) 
-- [Gupax: GUI for p2pool/XMRig](https://ccs.getmonero.org/proposals/gupax.html) - [gupax.io](https://gupax.io)
 - [koe: Seraphis Library Work](https://ccs.getmonero.org/proposals/seraphis-library-work.html)    
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-7.html)   
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/354#note_19807)
