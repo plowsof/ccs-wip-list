@@ -21,6 +21,7 @@
   - update requested via direct message to binarybaron 2022-10-23  
   - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
   - work has resumed. Paid for milestone 2
+  - milestone 3 paid.
 - [jeffro256: part-time dev work 2022Q3](https://ccs.getmonero.org/proposals/jeffro256-part-time-2022-q3.html)    
     - Milestone 1 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_18761)
     - Milestone 2 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
