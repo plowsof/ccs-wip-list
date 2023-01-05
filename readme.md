@@ -38,7 +38,7 @@
 - [vtnerd Full-Time 2021 Q1](https://ccs.getmonero.org/proposals/vtnerd-2021-q1.html)    
     - working on bp++ c++ implementation
 - [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals/mooo-2020-12.html)  
-    - 20 hours remaining
+    - 20 hours remaining as of January
 - [tipxmr.live - a non-custodial livestream donation service for OBS](https://ccs.getmonero.org/proposals/tipxmr.live.html)    
 - [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html) 
     - Final milestone completed.. expect a reddit update soon!   
