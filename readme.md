@@ -1,4 +1,7 @@
 ## OK
+- [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)     
+    - Vik of cakewallet has replaced one of the core members, and says that funding will be provided (to make up for the shortfalls due to volatility)
+    - woodser: "aiming to be production ready by end of march or april depending how things go"
 - [dangerousfreedom - more Seraphis development](https://ccs.getmonero.org/proposals/dangerousfreedom-Seraphis-audit-and-wallet.html)    
     - [10-06-22 17:05:58](https://github.com/monero-project/meta/issues/739#issuecomment-1270463283) <dangerousfreedom> First of all thank you very much for your donations! I will do my best to deliver a high quality job as proposed. This week I have been investigating the grootle proofs in seraphis. I have been trying to make a parallel implementation of it in order to better understand how it works, to correct some possible flaws (if I find any) and to facilitate the work of someone else who is going to audit before going to production
     - [10-12-2022 17:05:03](https://github.com/monero-project/meta/issues/740#issuecomment-1276549475) <dangerousfreedom> Hello. I'm still going on through all the math equations in Seraphis and working on the audits framework.
@@ -9,8 +12,7 @@
     - [11-28-2022](https://github.com/monero-project/meta/issues/758#issuecomment-1329594860) <dangerousfreedom> rbrunner7[m]: Now that he did some preliminary studies I will try to implement using the constant that he specified (and understand the numbers he got for the security of the checksum).
     - [12-05-2022](https://github.com/monero-project/meta/issues/762#issuecomment-1338007193)<dangerousfreedom> rbrunner7[m]: This week I looked at the checksum algo and implemented the BCH code as specified by Tevador in his Python snippet (https://github.com/DangerousFreedom1984/seraphis_lib/blob/simple_prototype/src/seraphis/jamtis_account.cpp#L186) so if we reach a consensus about the address tag (which I dont have an opinion now) then we should be good for generating the addresses. I have also been looking at the transaction proofs and should write something (to Koe) by the weekend.
     - first draft - security proofs for seraphis [here](https://github.com/seraphis-migration/wallet3/issues/42)
-- [escapethe3RA Monero Observer maintenance (Autumn 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-autumn-2022.html) 
-- [koe: Seraphis Library Work](https://ccs.getmonero.org/proposals/seraphis-library-work.html)    
+- [escapethe3RA Monero Observer maintenance (Winter 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-winter-2022.html) 
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-7.html)   
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/354#note_19807)
 - [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
@@ -27,23 +29,22 @@
     - Milestone 2 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html) 
     - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more info](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
-- [koe: Seraphis Wallet Proof-of-Concept 2](https://ccs.getmonero.org/proposals/seraphis-wallet-poc-2.html)    
 - [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)  
     - [Milestone 1 + 2 complete](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/307#note_16613)
 - [Monero Debian Package Repository for 2 years](https://ccs.getmonero.org/proposals/adrelanos-debian-package.html)    
-- [MoneroKon 2022 CCS](https://ccs.getmonero.org/proposals/MoneroKon-2022-CCS.html)  
-    - Monerokon repo [here](https://github.com/MoneroKon)
-    - Draft CCS proposal ready
 - [OSPEAD - Fortifying Monero Against Statistical Attack](https://ccs.getmonero.org/proposals/Rucknium-OSPEAD-Fortifying-Monero-Against-Statistical-Attack.html)    
     - [Milestone 1 complete](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/255#note_18750)
 - [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html) - need to contact , i think payment(s) are overdue       
 - [vtnerd Full-Time 2021 Q1](https://ccs.getmonero.org/proposals/vtnerd-2021-q1.html)    
-- [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals/mooo-2020-12.html)    
+    - working on bp++ c++ implementation
+- [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals/mooo-2020-12.html)  
+    - 20 hours remaining
 - [tipxmr.live - a non-custodial livestream donation service for OBS](https://ccs.getmonero.org/proposals/tipxmr.live.html)    
 - [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html) 
     - Final milestone completed.. expect a reddit update soon!   
 - [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)   
     - [reddit comment saying work has begun](https://www.reddit.com/r/Monero/comments/xgqfdd/monero_youtube_channel_video_about_p2pool/) 2022-10-20
+    - [draft/preview](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/308#note_20234)
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
@@ -59,8 +60,6 @@ rest assured that I (we) intend to
     - working relationship between endor/mj 'broken'
     - dev tax removed / endor can finish the project without mj
 ## FUNDING ISSUE
-- [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)     
-    - Vik of cakewallet has replaced one of the core members, and says that funding will be provided (to make up for the shortfalls due to volatility)
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)  
     - https://github.com/mollyim/monero-wallet-sdk
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
