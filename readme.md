@@ -2,6 +2,8 @@
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)     
     - Vik of cakewallet has replaced one of the core members, and says that funding will be provided (to make up for the shortfalls due to volatility)
     - woodser: "aiming to be production ready by end of march or april depending how things go"
+    - [new ui](https://github.com/haveno-dex/haveno-ui) is suspended for now. [preview](https://www.loom.com/share/7f056688d71f4afea9ff92aab4736584)
+    - woodser: "most funds remain in the ccs, to be paid out when we resume ui development. those funds will pay the ui developers, who might be the same as last time, or might be new since we had to pause for so long. we plan to resume ui development after it's minimally viable with the legacy ui from bisq"
 - [dangerousfreedom - more Seraphis development](https://ccs.getmonero.org/proposals/dangerousfreedom-Seraphis-audit-and-wallet.html)    
     - [10-06-22 17:05:58](https://github.com/monero-project/meta/issues/739#issuecomment-1270463283) <dangerousfreedom> First of all thank you very much for your donations! I will do my best to deliver a high quality job as proposed. This week I have been investigating the grootle proofs in seraphis. I have been trying to make a parallel implementation of it in order to better understand how it works, to correct some possible flaws (if I find any) and to facilitate the work of someone else who is going to audit before going to production
     - [10-12-2022 17:05:03](https://github.com/monero-project/meta/issues/740#issuecomment-1276549475) <dangerousfreedom> Hello. I'm still going on through all the math equations in Seraphis and working on the audits framework.
@@ -21,7 +23,7 @@
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-4.html)    
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
     - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)  
-    - i've made an issue asking for progrss update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1)
+    - i've made an issue asking for progress update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1)
 - [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
   - update requested via direct message to binarybaron 2022-10-23  
   - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
