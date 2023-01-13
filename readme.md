@@ -15,10 +15,13 @@
 - [escapethe3RA Monero Observer maintenance (Winter 2022)](https://ccs.getmonero.org/proposals/escapethe3ra-monero-observer-maintenance-winter-2022.html) 
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-7.html)   
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/354#note_19807)
-- [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)    
+    - [Month 2 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/354#note_20338)
+- [Continued Feather Wallet development (3 months)](https://ccs.getmonero.org/proposals/tobtoht-feather-dev-2022-1.html)   
+    - [Months 1+2 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/332#note_20307)
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-4.html)    
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
-    - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)   
+    - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)  
+    - i've made an issue asking for progrss update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1)
 - [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
   - update requested via direct message to binarybaron 2022-10-23  
   - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
@@ -40,6 +43,7 @@
 - [moneromooo: three months from December 2020](https://ccs.getmonero.org/proposals/mooo-2020-12.html)  
     - 20 hours remaining as of January
 - [tipxmr.live - a non-custodial livestream donation service for OBS](https://ccs.getmonero.org/proposals/tipxmr.live.html)    
+    - progrss update [20230108](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/174#note_20298)
 - [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html) 
     - Final milestone completed.. expect a reddit update soon!   
 - [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)   
@@ -49,7 +53,7 @@
 
 ## OTHER
 - [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
-    - I need to investigate / follow up for whats happening here
+    - I need to investigate / follow up for whats happening here - waiting for a reply to [issue here](https://github.com/cirocosta/monero-operator/issues/19)
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html) netrik has mentioned publicly that he has not claimed the milestone but continues to work [here](https://www.reddit.com/r/Monero/comments/x7bmzq/comment/io3c6wp/?utm_source=share&utm_medium=web2x&context=3) - contacted him to clarify / get paid for work done if the hours have been worked.
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
