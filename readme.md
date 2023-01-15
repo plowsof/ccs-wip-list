@@ -54,6 +54,9 @@
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
+- [Monero Payment gateways Gateways part 3](https://ccs.getmonero.org/proposals/serhack-monero-integrations-part-3.html) Proposer is busy creating Mastering Monero 2.0 
+    - [SerHack](https://libera.monerologs.net/monero-community/20230114#c188855): "Sorry for OT: if you need assistance with Monero Integrations, please open a new ticket on support.monerointegrations.com Thanks in advance!"
+    - [SerHack](https://libera.monerologs.net/monero-community/20230114#c188862): "my CCS is still opened, if anyone wants to take the bounty for improving and implementing the features I planned, go ahead and contact me."
 - [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
     - I need to investigate / follow up for whats happening here - waiting for a reply to [issue here](https://github.com/cirocosta/monero-operator/issues/19)
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html) netrik has mentioned publicly that he has not claimed the milestone but continues to work [here](https://www.reddit.com/r/Monero/comments/x7bmzq/comment/io3c6wp/?utm_source=share&utm_medium=web2x&context=3) - contacted him to clarify / get paid for work done if the hours have been worked.
@@ -77,7 +80,6 @@ rest assured that I (we) intend to
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
 - [German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)](https://ccs.getmonero.org/proposals/wobole-german-translation-subtitles.html) Completed but needs review, also AWOL    
 - [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) AWOL  30 XMR - no activity for 8 months      
-- [Monero Payment gateways Gateways part 3](https://ccs.getmonero.org/proposals/serhack-monero-integrations-part-3.html) Proposer is busy creating Mastering Monero 2.0     
 - [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT    
 - [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
 
