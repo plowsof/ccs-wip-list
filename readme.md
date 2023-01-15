@@ -1,4 +1,6 @@
 ## OK
+- [Monero Garden](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/346)
+    - [Update 1](https://libera.monerologs.net/monero-community/20230114#c188855)
 - [Haveno frontend development](https://ccs.getmonero.org/proposals/haveno-frontend.html)     
     - Vik of cakewallet has replaced one of the core members, and says that funding will be provided (to make up for the shortfalls due to volatility)
     - woodser: "aiming to be production ready by end of march or april depending how things go"
