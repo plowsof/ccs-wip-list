@@ -80,7 +80,7 @@ rest assured that I (we) intend to
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106 0.2 XMR remains
     - After looking into the 'Sia network' it is not actually censorship resistant per this [tw*tter thread](https://nitter.cz/davidvorick/status/1500342996998529026?lang=en)
     - The process involves buying Siacoins(?) and paying fees with them [more info here](https://docs.sia.tech/renting/how-to-rent-storage-on-sia) 
-    - IMO this ccs was a none starter, considering the trust involved of hosting the 'one source' of truth, combined with the Sia network not actually censorship resistant.
+    - IMO this ccs was a none starter, considering the trust involved of hosting the 'one source' of truth, combined with the Sia network not actually censorship resistant - but it was popular as it came right after the tornado cash incident.
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://ccs.getmonero.org/staff91-Translation%20and%20review%20of%20GUI%20Wallet,%20monero-site,%20Monero%20Means%20Money%20(subtitles)%20and%20Sound%20Money,%20Safe%20Mode%20(subtitles)%20to%20Italian.html) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
