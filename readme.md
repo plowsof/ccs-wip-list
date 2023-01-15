@@ -77,7 +77,10 @@ rest assured that I (we) intend to
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
 
 ## PURGATORY
-- [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106
+- [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106 0.2 XMR remains
+    - After looking into the 'Sia network' it is not actually censorship resistant per this [tw*tter thread](https://nitter.cz/davidvorick/status/1500342996998529026?lang=en)
+    - The process involves buying Siacoins(?) and paying fees with them [more info here](https://docs.sia.tech/renting/how-to-rent-storage-on-sia) 
+    - IMO this ccs was a none starter, considering the trust involved of hosting the 'one source' of truth, combined with the Sia network not actually censorship resistant.
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://ccs.getmonero.org/staff91-Translation%20and%20review%20of%20GUI%20Wallet,%20monero-site,%20Monero%20Means%20Money%20(subtitles)%20and%20Sound%20Money,%20Safe%20Mode%20(subtitles)%20to%20Italian.html) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
