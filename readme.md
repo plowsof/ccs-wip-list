@@ -50,7 +50,8 @@
 - [tipxmr.live - a non-custodial livestream donation service for OBS](https://ccs.getmonero.org/proposals/tipxmr.live.html)    
     - progrss update [20230108](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/174#note_20298)
 - [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html) 
-    - Final milestone completed.. expect a reddit update soon!   
+    - Final milestone completed.. expect a reddit update soon!
+    - Update [posted on Reddit here](https://www.reddit.com/r/Monero/comments/10dp1mw/farcaster_atomic_swap_node_gui_mvp_release/)
 - [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)   
     - [reddit comment saying work has begun](https://www.reddit.com/r/Monero/comments/xgqfdd/monero_youtube_channel_video_about_p2pool/) 2022-10-20
     - [draft/preview](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/308#note_20234)
