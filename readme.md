@@ -55,6 +55,7 @@
 - [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)   
     - [reddit comment saying work has begun](https://www.reddit.com/r/Monero/comments/xgqfdd/monero_youtube_channel_video_about_p2pool/) 2022-10-20
     - [draft/preview](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/308#note_20234)
+    - [update (needs help but has found it)](https://www.reddit.com/r/Monero/comments/10e7pvv/new_monero_animated_videos_update/)
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
