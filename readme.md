@@ -77,6 +77,7 @@ rest assured that I (we) intend to
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)  
     - https://github.com/mollyim/monero-wallet-sdk
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
+    - 2023-01-19 valldrac: [i will post an update soon](https://libera.monerologs.net/monero-community/20230119#c191101)
 
 ## PURGATORY
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106 0.2 XMR remains
