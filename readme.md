@@ -8,6 +8,8 @@
     - [new ui](https://github.com/haveno-dex/haveno-ui) is suspended for now. [preview](https://www.loom.com/share/7f056688d71f4afea9ff92aab4736584)
     - woodser: "most funds remain in the ccs, to be paid out when we resume ui development. those funds will pay the ui developers, who might be the same as last time, or might be new since we had to pause for so long. we plan to resume ui development after it's minimally viable with the legacy ui from bisq"
 - [dangerousfreedom - more Seraphis development](https://ccs.getmonero.org/proposals/dangerousfreedom-Seraphis-audit-and-wallet.html)    
+    <details> <summary> updates </summary>
+    
     - [10-06-22 17:05:58](https://github.com/monero-project/meta/issues/739#issuecomment-1270463283) <dangerousfreedom> First of all thank you very much for your donations! I will do my best to deliver a high quality job as proposed. This week I have been investigating the grootle proofs in seraphis. I have been trying to make a parallel implementation of it in order to better understand how it works, to correct some possible flaws (if I find any) and to facilitate the work of someone else who is going to audit before going to production
     - [10-12-2022 17:05:03](https://github.com/monero-project/meta/issues/740#issuecomment-1276549475) <dangerousfreedom> Hello. I'm still going on through all the math equations in Seraphis and working on the audits framework.
     - [10-19-2022 17:06:32](https://github.com/monero-project/meta/issues/743#issuecomment-1284379262) <dangerousfreedom> I'm working on my understanding of wallet2 and simplewallet and trying to create some logical reasoning of what is going on there.
@@ -17,6 +19,8 @@
     - [11-28-2022](https://github.com/monero-project/meta/issues/758#issuecomment-1329594860) <dangerousfreedom> rbrunner7[m]: Now that he did some preliminary studies I will try to implement using the constant that he specified (and understand the numbers he got for the security of the checksum).
     - [12-05-2022](https://github.com/monero-project/meta/issues/762#issuecomment-1338007193)<dangerousfreedom> rbrunner7[m]: This week I looked at the checksum algo and implemented the BCH code as specified by Tevador in his Python snippet (https://github.com/DangerousFreedom1984/seraphis_lib/blob/simple_prototype/src/seraphis/jamtis_account.cpp#L186) so if we reach a consensus about the address tag (which I dont have an opinion now) then we should be good for generating the addresses. I have also been looking at the transaction proofs and should write something (to Koe) by the weekend.
     - first draft - security proofs for seraphis [here](https://github.com/seraphis-migration/wallet3/issues/42)
+    
+    </details>
 - [escapethe3RA Monero Observer maintenance (Winter 2022)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363) 
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363#note_20261)
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-7.html)   
