@@ -19,6 +19,9 @@
     - [11-28-2022](https://github.com/monero-project/meta/issues/758#issuecomment-1329594860) <dangerousfreedom> rbrunner7[m]: Now that he did some preliminary studies I will try to implement using the constant that he specified (and understand the numbers he got for the security of the checksum).
     - [12-05-2022](https://github.com/monero-project/meta/issues/762#issuecomment-1338007193)<dangerousfreedom> rbrunner7[m]: This week I looked at the checksum algo and implemented the BCH code as specified by Tevador in his Python snippet (https://github.com/DangerousFreedom1984/seraphis_lib/blob/simple_prototype/src/seraphis/jamtis_account.cpp#L186) so if we reach a consensus about the address tag (which I dont have an opinion now) then we should be good for generating the addresses. I have also been looking at the transaction proofs and should write something (to Koe) by the weekend.
     - first draft - security proofs for seraphis [here](https://github.com/seraphis-migration/wallet3/issues/42)
+    - Wrote a draft for all knowledge proofs like Koe suggested (https://github.com/DangerousFreedom1984/seraphis_lib/commit/22f78913b7dc2c588a88daf9865c358046cf0562). 
+    - Basically we are exposing the enotes directly instead of creating Schnorr proofs as I suggested initially for the basic proofs. I still need to polish, write more comments and double-check with more unit_tests but I believe it is getting closer to the end, I will wait for Koe's comments and directions and will try to finish this week.
+    - I'm looking again at the functions to load/save a wallet and I believe I will have a better prototype to discuss the nomenclature and the general schemes for starting the wallet soon (hopefully by next week).
     
     </details>
 - [escapethe3RA Monero Observer maintenance (Winter 2022)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363) 
