@@ -22,6 +22,8 @@
     - Wrote a draft for all knowledge proofs like Koe suggested (https://github.com/DangerousFreedom1984/seraphis_lib/commit/22f78913b7dc2c588a88daf9865c358046cf0562). 
     - Basically we are exposing the enotes directly instead of creating Schnorr proofs as I suggested initially for the basic proofs. I still need to polish, write more comments and double-check with more unit_tests but I believe it is getting closer to the end, I will wait for Koe's comments and directions and will try to finish this week.
     - I'm looking again at the functions to load/save a wallet and I believe I will have a better prototype to discuss the nomenclature and the general schemes for starting the wallet soon (hopefully by next week).
+    - I finished the first version of the knowledge proofs and made a PR to Koe. I believe I have all the proofs working with a basic unit_test for each. There are still clean-ups and more tests to add and also some extra work for the legacy and serialization but I guess that the core is building up nicely (https://github.com/UkoeHB/monero/pull/5/files)
+    - I will focus back again on the wallet and I will probably have a simple demonstrator to show by next week (so we can better discuss the next tasks and the directions we want to go for some points).
     
     </details>
 - [escapethe3RA Monero Observer maintenance (Winter 2022)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363) 
