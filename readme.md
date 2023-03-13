@@ -83,4 +83,4 @@ rest assured that I (we) intend to
 
 ## Resolved
 - [Triptych research and optimizations](https://ccs.getmonero.org/proposals/cypherstack-sarang-triptych-research.html) ready to be [closed / donated to general fund](https://libera.monerologs.net/monero-community/20221007#c150566)
-- [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) AWOL  30 XMR - no activity for 8 months      
+- [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) see https://github.com/plowsof/ccs-wip-list/issues/1   
