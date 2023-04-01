@@ -7,10 +7,8 @@
     - woodser: "aiming to be production ready by end of march or april depending how things go"
     - [new ui](https://github.com/haveno-dex/haveno-ui) is suspended for now. [preview](https://www.loom.com/share/7f056688d71f4afea9ff92aab4736584)
     - woodser: "most funds remain in the ccs, to be paid out when we resume ui development. those funds will pay the ui developers, who might be the same as last time, or might be new since we had to pause for so long. we plan to resume ui development after it's minimally viable with the legacy ui from bisq"
-- [escapethe3RA Monero Observer maintenance (Winter 2022)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363) 
-    - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363#note_20261)
-    - [Month 2 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363#note_20603)
-    - [Month 3 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/363#note_20804)
+- [escapethe3RA Monero Observer maintenance (spring 2023)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378) 
+    - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378#note_21029)
 - [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-8.html) 
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/372#note_20852)  
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-4.html)    
@@ -42,10 +40,6 @@
 - [Monero Atomic Swaps implementation funding](https://ccs.getmonero.org/proposals/h4sh3d-atomic-swap-implementation.html) 
     - Final milestone completed.. expect a reddit update soon!
     - Update [posted on Reddit here](https://www.reddit.com/r/Monero/comments/10dp1mw/farcaster_atomic_swap_node_gui_mvp_release/)
-- [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)   
-    - [reddit comment saying work has begun](https://www.reddit.com/r/Monero/comments/xgqfdd/monero_youtube_channel_video_about_p2pool/) 2022-10-20
-    - [draft/preview](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/308#note_20234)
-    - [update (needs help but has found it)](https://www.reddit.com/r/Monero/comments/10e7pvv/new_monero_animated_videos_update/)
 - [ErCiccione: 3 more months part time work on Getmonero.org (flexible)](https://ccs.getmonero.org/proposals/erciccione-website7.html) 
 
 ## OTHER
