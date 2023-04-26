@@ -71,10 +71,10 @@ rest assured that I (we) intend to
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/186) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
-- [German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)](https://ccs.getmonero.org/proposals/wobole-german-translation-subtitles.html) Completed but needs review, also AWOL    
 - [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT    
 - [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
 
 ## Resolved
 - [Triptych research and optimizations](https://ccs.getmonero.org/proposals/cypherstack-sarang-triptych-research.html) ready to be [closed / donated to general fund](https://libera.monerologs.net/monero-community/20221007#c150566)
 - [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) see https://github.com/plowsof/ccs-wip-list/issues/1   
+- [German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)](https://ccs.getmonero.org/proposals/wobole-german-translation-subtitles.html) Webole has returned! and will be paid out for their work.  
