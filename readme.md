@@ -14,7 +14,7 @@
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-4.html)    
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
     - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)  
-    - i've made an issue asking for progress update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1)
+    - i've made an issue asking for progress update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1) which was responded to
 - [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
   - update requested via direct message to binarybaron 2022-10-23  
   - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
@@ -23,6 +23,7 @@
 - [jeffro256: part-time dev work 2022Q3](https://ccs.getmonero.org/proposals/jeffro256-part-time-2022-q3.html)    
     - Milestone 1 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_18761)
     - Milestone 2 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_19590)
+    - Milestone 3 [completed](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/319#note_21048)
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html) 
     - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more info](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
 - [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)  
