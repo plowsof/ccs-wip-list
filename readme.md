@@ -9,8 +9,6 @@
     - woodser: "most funds remain in the ccs, to be paid out when we resume ui development. those funds will pay the ui developers, who might be the same as last time, or might be new since we had to pause for so long. we plan to resume ui development after it's minimally viable with the legacy ui from bisq"
 - [escapethe3RA Monero Observer maintenance (spring 2023)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378) 
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378#note_21029)
-- [selsta part-time monero development (3 months)](https://ccs.getmonero.org/proposals/selsta-8.html) 
-    - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/372#note_20852)  
 - [j-berman full-time development (3 months)](https://ccs.getmonero.org/proposals/j-berman-3months-full-time-4.html)    
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
     - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)  
