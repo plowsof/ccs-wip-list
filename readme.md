@@ -1,4 +1,12 @@
 ## OK
+- [Bp++ peer review](https://ccs.getmonero.org/proposals/bulletproofs-pp-peer-review.html)
+    - New paper released. waiting for new quote. 
+- [v1docq XMR.ru](https://ccs.getmonero.org/proposals/v1docq47-monerokon-part-2-and-monerotopia-2023-voice-over-and-working-on-xmr.ru.html)
+- [Koe seraphis ongoing support](https://ccs.getmonero.org/proposals/seraphis-ongoing-support.html)
+- [Dangerousfreedom wallet development 2](https://ccs.getmonero.org/proposals/df-wallet-development-2.html)
+- [Monero to the Oscars](https://ccs.getmonero.org/proposals/monero-to-the-oscars.html)
+- [Standalone AcceptXMR](https://ccs.getmonero.org/proposals/busyboredom-standalone-acceptxmr.html)
+- [Maintaining Monero-Gui Flatpak package](https://ccs.getmonero.org/proposals/maintaining-flatpak-package.html)
 - [Monero Garden](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/346)
     - [Update 1](https://libera.monerologs.net/monero-community/20230114#c188855)
     - [twitter teaser](https://nitter.cz/anhdres/status/1616520453513674755)
