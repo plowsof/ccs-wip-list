@@ -74,7 +74,8 @@ rest assured that I (we) intend to
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/186) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
-- [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT    
+- [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT   
+    - rehrar has tried unsuccessfully to get the invoices from matt. i'm trying again (ive sent an enquiry emial 20230430 https://riat.at/matthias-tarasiewicz/) 
 - [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
 
 ## Resolved
