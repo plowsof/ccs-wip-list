@@ -2,6 +2,7 @@
 - [Bp++ peer review](https://ccs.getmonero.org/proposals/bulletproofs-pp-peer-review.html)
     - New paper released. waiting for new quote. 
     - Diego "On first read of the updated preprint, there appear to be areas where they generically offload parts of arguments" [continued](https://libera.monerologs.net/monero-research-lab/20230501#c242437)
+    - contacted bp++ author and asked for a response to the above 20230501
 - [v1docq XMR.ru](https://ccs.getmonero.org/proposals/v1docq47-monerokon-part-2-and-monerotopia-2023-voice-over-and-working-on-xmr.ru.html)
 - [Koe seraphis ongoing support](https://ccs.getmonero.org/proposals/seraphis-ongoing-support.html)
 - [Dangerousfreedom wallet development 2](https://ccs.getmonero.org/proposals/df-wallet-development-2.html)
