@@ -8,6 +8,7 @@
 - [Dangerousfreedom wallet development 2](https://ccs.getmonero.org/proposals/df-wallet-development-2.html)
 - [Monero to the Oscars](https://ccs.getmonero.org/proposals/monero-to-the-oscars.html)
 - [Standalone AcceptXMR](https://ccs.getmonero.org/proposals/busyboredom-standalone-acceptxmr.html)
+    - follow the [issues on the github repo](https://github.com/busyboredom/acceptxmr/issues) to keep up to date with any progress 
 - [Maintaining Monero-Gui Flatpak package](https://ccs.getmonero.org/proposals/maintaining-flatpak-package.html)
 - [Monero Garden](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/346)
     - [Update 1](https://libera.monerologs.net/monero-community/20230114#c188855)
