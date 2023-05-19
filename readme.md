@@ -61,14 +61,16 @@ the last few months), so I doubt that I'll be able to finish my part in time for
 rest assured that I (we) intend to
     - working relationship between endor/mj 'broken'
     - dev tax removed / endor can finish the project without mj
+- [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT   
+    - rehrar has tried unsuccessfully to get the invoices from matt. i'm trying again (ive sent an enquiry emial 20230430 https://riat.at/matthias-tarasiewicz/) 
+    - reply from RIAT received. they had an internal meeting about it. issue being their "bookkeeping is in another part of Austria" so it will take time for them to gather the info 20230619
+
 ## FUNDING ISSUE
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)  
     - https://github.com/mollyim/monero-wallet-sdk
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
     - 2023-01-19 valldrac: [i will post an update soon](https://libera.monerologs.net/monero-community/20230119#c191101)
-- [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT   
-    - rehrar has tried unsuccessfully to get the invoices from matt. i'm trying again (ive sent an enquiry emial 20230430 https://riat.at/matthias-tarasiewicz/) 
-    - reply from RIAT received. they had an internal meeting about it. issue being their "bookkeeping is in another part of Austria" so it will take time for them to gather the info 20230619
+
 ## PURGATORY
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106 0.2 XMR remains
     - After looking into the 'Sia network' it is not actually censorship resistant per this [tw*tter thread](https://nitter.cz/davidvorick/status/1500342996998529026?lang=en)
