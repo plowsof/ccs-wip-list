@@ -66,7 +66,9 @@ rest assured that I (we) intend to
     - https://github.com/mollyim/monero-wallet-sdk
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
     - 2023-01-19 valldrac: [i will post an update soon](https://libera.monerologs.net/monero-community/20230119#c191101)
-
+- [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT   
+    - rehrar has tried unsuccessfully to get the invoices from matt. i'm trying again (ive sent an enquiry emial 20230430 https://riat.at/matthias-tarasiewicz/) 
+    - reply from RIAT received. they had an internal meeting about it. issue being their "bookkeeping is in another part of Austria" so it will take time for them to gather the info 20230619
 ## PURGATORY
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106 0.2 XMR remains
     - After looking into the 'Sia network' it is not actually censorship resistant per this [tw*tter thread](https://nitter.cz/davidvorick/status/1500342996998529026?lang=en)
@@ -75,8 +77,6 @@ rest assured that I (we) intend to
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/186) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
-- [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT   
-    - rehrar has tried unsuccessfully to get the invoices from matt. i'm trying again (ive sent an enquiry emial 20230430 https://riat.at/matthias-tarasiewicz/) 
 - [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
 
 ## Resolved
