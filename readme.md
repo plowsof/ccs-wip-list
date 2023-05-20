@@ -23,6 +23,7 @@
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
     - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)  
     - i've made an issue asking for progress update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1) which was responded to
+    - a [project tracker repo](https://github.com/Monero-HackerIndustrial/MoneroSigner-Project-Tracking) has been made 
 - [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
   - update requested via direct message to binarybaron 2022-10-23  
   - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
