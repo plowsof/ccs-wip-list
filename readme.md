@@ -1,4 +1,5 @@
 ## OK
+- Final paper released. Cypherstack to look at in August
 - [Bp++ peer review](https://ccs.getmonero.org/proposals/bulletproofs-pp-peer-review.html)
     - New paper released. waiting for new quote. 
     - Diego "On first read of the updated preprint, there appear to be areas where they generically offload parts of arguments" [continued](https://libera.monerologs.net/monero-research-lab/20230501#c242437)
@@ -18,6 +19,7 @@
     - woodser: "aiming to be production ready by end of march or april depending how things go"
     - [new ui](https://github.com/haveno-dex/haveno-ui) is suspended for now. [preview](https://www.loom.com/share/7f056688d71f4afea9ff92aab4736584)
     - woodser: "most funds remain in the ccs, to be paid out when we resume ui development. those funds will pay the ui developers, who might be the same as last time, or might be new since we had to pause for so long. we plan to resume ui development after it's minimally viable with the legacy ui from bisq"
+    - woodser: "I'm pushing for a new release today or tomorrow. we'll see how stable and ready that is. then some final work needs to be done for mainnet readiness, then the code should be more or less ready"
 - [escapethe3RA Monero Observer maintenance (spring 2023)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378) 
     - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378#note_21029)
     - [Month 2 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378#note_21188)
