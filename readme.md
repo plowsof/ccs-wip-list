@@ -20,22 +20,12 @@
     - [new ui](https://github.com/haveno-dex/haveno-ui) is suspended for now. [preview](https://www.loom.com/share/7f056688d71f4afea9ff92aab4736584)
     - woodser: "most funds remain in the ccs, to be paid out when we resume ui development. those funds will pay the ui developers, who might be the same as last time, or might be new since we had to pause for so long. we plan to resume ui development after it's minimally viable with the legacy ui from bisq"
     - woodser: "I'm pushing for a new release today or tomorrow. we'll see how stable and ready that is. then some final work needs to be done for mainnet readiness, then the code should be more or less ready"
-- [escapethe3RA Monero Observer maintenance (spring 2023)](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378) 
-    - [Month 1 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378#note_21029)
-    - [Month 2 Update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/378#note_21188)
 - [MoneroSigner. Fork of seedsigner for Monero.](https://ccs.getmonero.org/proposals/MoneroSigner.html) 
     - can follow updates on the repo [here](https://github.com/Monero-HackerIndustrial)  
     - i've made an issue asking for progress update [here](https://github.com/Monero-HackerIndustrial/PortableMoneroQR/issues/1) which was responded to
     - a [project tracker repo](https://github.com/Monero-HackerIndustrial/MoneroSigner-Project-Tracking) has been made 
-- [XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months](https://ccs.getmonero.org/proposals/unstoppableswap-gui-2.html)  
-  - update requested via direct message to binarybaron 2022-10-23  
-  - responded (will provide an update soon) 2022-10-25 [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/321#note_19187)
-  - work has resumed. Paid for milestone 2
-  - milestone 3 paid.
 - [Research Computing Upgrade](https://ccs.getmonero.org/proposals/gingeropolous_zenith_storage.html) 
     - Upgrade is completed but due to a new job, ginger will have less hours for support, however is still around. can resume in the summer [more info](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/317#note_19434)
-- [HotShop Point of Sale](https://ccs.getmonero.org/proposals/cryptogrampy-hotshop-dev.html)  
-    - [Milestone 1 + 2 complete](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/307#note_16613)
 - [OSPEAD - Fortifying Monero Against Statistical Attack](https://ccs.getmonero.org/proposals/Rucknium-OSPEAD-Fortifying-Monero-Against-Statistical-Attack.html)    
     - [Milestone 1 complete](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/255#note_18750)
 - [Douglas Tuman Working full-time on Monero Projects (6 months)](https://ccs.getmonero.org/proposals/DTuman_6months_full-time_on_monero-projects.html) - need to contact , i think payment(s) are overdue       
@@ -50,8 +40,7 @@
 - [Monero Payment gateways Gateways part 3](https://ccs.getmonero.org/proposals/serhack-monero-integrations-part-3.html) Proposer is busy creating Mastering Monero 2.0 
     - [SerHack](https://libera.monerologs.net/monero-community/20230114#c188855): "Sorry for OT: if you need assistance with Monero Integrations, please open a new ticket on support.monerointegrations.com Thanks in advance!"
     - [SerHack](https://libera.monerologs.net/monero-community/20230114#c188862): "my CCS is still opened, if anyone wants to take the bounty for improving and implementing the features I planned, go ahead and contact me."
-- [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
-    - I need to investigate / follow up for whats happening here - waiting for a reply to [issue here](https://github.com/cirocosta/monero-operator/issues/19)
+    - https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/402
 - [Three Months of Translation Coordination](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html) netrik has mentioned publicly that he has not claimed the milestone but continues to work [here](https://www.reddit.com/r/Monero/comments/x7bmzq/comment/io3c6wp/?utm_source=share&utm_medium=web2x&context=3) - contacted him to clarify / get paid for work done if the hours have been worked.
 - [SolOptXMR - Solar Optimal mining of XMR](https://ccs.getmonero.org/proposals/soloptxmr-mj-endor-2022.html) 
     - 16:24:25 <merope> Hey everyone - just a quick update on SolOptXMR: I'm pretty close to finishing Milestone 2,
@@ -61,16 +50,18 @@ the last few months), so I doubt that I'll be able to finish my part in time for
 rest assured that I (we) intend to
     - working relationship between endor/mj 'broken'
     - dev tax removed / endor can finish the project without mj
+    - Endorxmr has been actively working on the project
 - [36C3 Supplies](https://ccs.getmonero.org/proposals/36c3.html) 50% is paid out - blocked until invoices are provided from RIAT   
     - rehrar has tried unsuccessfully to get the invoices from matt. i'm trying again (ive sent an enquiry emial 20230430 https://riat.at/matthias-tarasiewicz/) 
     - reply from RIAT received. they had an internal meeting about it. issue being their "bookkeeping is in another part of Austria" so it will take time for them to gather the info 20230619
+    - waiting on follow up reply still 20230818
 
 ## FUNDING ISSUE
 - [Decentralizing Molly.im to support Monero payments](https://ccs.getmonero.org/proposals/vd-molly-payments-stage1.html)  
     - https://github.com/mollyim/monero-wallet-sdk
     - [valldrac](https://libera.monerologs.net/monero-community/20221202#c171460): "It's progressing well, but slowly. I have published already part of the Monero library I'm developing to use in Molly. Soon I will release a demo app that implements a Monero wallet for Android using this library, to test and validate it. My idea is that the library become part of the Monero ecosystem. This goal not planned at the beginning, but I think it makes sense"
     - 2023-01-19 valldrac: [i will post an update soon](https://libera.monerologs.net/monero-community/20230119#c191101)
-
+    - will be resolced with Monero-wallet-sdk CCS proposal https://ccs.getmonero.org/proposals/vd-wallet-sdk-android.html
 ## PURGATORY
 - [Archive Monero Github code on a self-host onion instance and sia network](https://ccs.getmonero.org/proposals/Archive-monero-code-in-uncensorable-way.html) Offline 20221106 0.2 XMR remains
     - After looking into the 'Sia network' it is not actually censorship resistant per this [tw*tter thread](https://nitter.cz/davidvorick/status/1500342996998529026?lang=en)
@@ -79,8 +70,11 @@ rest assured that I (we) intend to
 - [Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/186) Accused of being part of ' Google Translate Gate' also AWOL    
 - [anon: perfect peer to peer protocol from bottom to top](https://ccs.getmonero.org/proposals/anon-perfect-peer-to-peer-protocol.html) Completed but the proposer feels they deserve more for their work thus are refusing to collect    
 - [xiphon full-time coding (3 months)](https://ccs.getmonero.org/proposals/xiphon-7.html) AWOL      
-- [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)  
-
+- [Monero Outreach Round 3](https://ccs.getmonero.org/proposals/xmrhaelan-monero-outreach-round-3.html)
+    - attempt to use the funds by ajs is in progress
+- [Monero Kubernetes Operator](https://ccs.getmonero.org/proposals/utxobr-monero-k8s-operator.html)    
+    - I need to investigate / follow up for whats happening here - waiting for a reply to [issue here](https://github.com/cirocosta/monero-operator/issues/19)
+  
 ## Resolved
 - [Triptych research and optimizations](https://ccs.getmonero.org/proposals/cypherstack-sarang-triptych-research.html) ready to be [closed / donated to general fund](https://libera.monerologs.net/monero-community/20221007#c150566)
 - [xmrSale Payment Processor Development](https://ccs.getmonero.org/proposals/xmrsale-2021.html) see https://github.com/plowsof/ccs-wip-list/issues/1   
